@@ -31,12 +31,15 @@ clamscan eicar.com.txt
 
 Exp 3
 sudo setoolkit
- Exp 4: Performing Vulnerability Scanning Using Nessus
+
+Exp 4: Performing Vulnerability Scanning Using Nessus
 login
 create a new scan
 basic network scan
 in target enter 127.0.0.1
 run the scan and wait for few minutes
+
+
  Exp 7: Analyzing Network Traffic with Wireshark
 
 To download dd file: https://cfreds-archive.nist.gov/dfr-test-images.html
