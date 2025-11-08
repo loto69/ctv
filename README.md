@@ -1,5 +1,7 @@
 https://www.perplexity.ai/search/this-are-outputs-please-give-m-zZ2Wf3m1RBSRb5sS52WL6Q#0
-[09:23, 08/11/2025] Naga [Madu's Chinrasu]: Exp 1
+
+
+Exp 1
 
 sudo apt update
 sudo apt install ufw
